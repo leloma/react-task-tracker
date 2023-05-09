@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "text": "Dance recital",
+      "day": "Wednesday 5pm",
+      "reminder": false,
+      "id": 1
+    },
+    {
+      "text": "React Project",
+      "day": "Friday 4pm",
+      "reminder": true,
+      "id": 2
+    },
+    {
+      "text": "Roller Skating",
+      "day": "Saturday",
+      "reminder": true,
+      "id": 3
+    },
+    {
+      "text": "Crocheting",
+      "day": "Sunday Afternoon",
+      "reminder": true,
+      "id": 4
+    }
+  ]
+}
